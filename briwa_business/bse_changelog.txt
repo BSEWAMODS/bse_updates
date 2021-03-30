@@ -1,4 +1,4 @@
-{"version_code":205624001,"content":"
+{"version_code":210422002,"content":"
 <p>Update BRIWhatsApp Business V4.00 Test</p>
 
 
