@@ -1,1 +1,17 @@
+{"version_code":205624001,"content":"
+<p>Update BRIWhatsApp Business V4.00 Test</p>
 
+
+<li>[New] Base Update 2.21.4.22 (Playstore)</li>
+<li>[Added] Forbidden icon when deleting a message</li>
+<li>[Added] Message when an update is available</li>
+<li>[Added] Option to block calls</li>
+<li>[Added] Delete a message after 100 days</li>
+<li>[Improved] Now you can check which package you are using (Settings &gt; Help &gt; App info)</li>
+<li>[Fixed] Bugs from the past version</li>
+
+
+
+
+","url":"http://dev-bsewamods.epizy.com/briwa_business.html"
+}
