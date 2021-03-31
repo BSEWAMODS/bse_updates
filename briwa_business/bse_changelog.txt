@@ -7,8 +7,11 @@
 <li>[Added] Message when an update is available</li>
 <li>[Added] Option to block calls</li>
 <li>[Added] Delete a message after 100 days</li>
-<li>[Improved] Now you can check which package you are using (Settings &gt; Help &gt; App info)</li>
+<li>[Improved] Expiration time increased</li>
+<li>[Improved] AntiBan Signature V2 (Thanks To YousefAlbasha)</li>
+<li>[Improved] Menu BRIWA Business Setting </li>
 <li>[Fixed] Bugs from the past version</li>
+<li>And more.....</li>
 
 
 
