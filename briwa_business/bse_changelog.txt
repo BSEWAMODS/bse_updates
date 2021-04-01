@@ -1,5 +1,5 @@
-{"version_code":210422002,"content":"
-<p>Update BRIWhatsApp Business V4.00 Test</p>
+{"version_code":210422001,"content":"
+<p>Update BRIWhatsApp Business V4.00</p>
 
 
 <li>[New] Base Update 2.21.4.22 (Playstore)</li>
