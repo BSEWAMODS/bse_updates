@@ -1,4 +1,4 @@
-{"version_code":287420999,"content":"
+{"version_code":287420998,"content":"
 <p>Update InstaSuper V2.10</p>
 
 
