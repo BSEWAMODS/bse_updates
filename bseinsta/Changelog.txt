@@ -1,1 +1,11 @@
+{"version_code":587420998,"content":"
+<p>Test Update</p>
 
+
+<li>Fixed - Option Increase stories quality</li>
+
+
+
+
+","url":"https://dev-bsewamods.epizy.com/"
+}
