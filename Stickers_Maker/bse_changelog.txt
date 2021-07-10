@@ -1,1 +1,13 @@
+{"version_code":211016005,"content":"
+<p>Update BRIWhatsApp Business V5.00</p>
 
+
+<li>[New] Base update to 2.21.10.16</li>
+<li>[Improved] Disable Internet > Icon in home</li>
+<li>The features of whatsapp 2.21.10.16 are enabled</li>
+
+
+
+
+","url":"https://dev-bsewamods.epizy.com/briwa_business.html"
+}
