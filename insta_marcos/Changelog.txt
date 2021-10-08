@@ -1,11 +1,18 @@
-{"version_code":0,"content":"
-<p>Update InstaFlow V2.00 (VIP)</p>
+{"version_code":320603793,"content":"
+<p>Update InstaFlow V2.00</p>
 
 
-<li>Features will be coming soon</li>
+<li>New Based on 206.1.0.34.121 (PlayStore)</li>
+<li>[Added] Ability to copy comments</li>
+<li>[Added] Privacy option - Hide seen in stories</li>
+<li>[Added] Privacy option - Hide seen in messages</li>
+<li>[Added] Privacy option - Hide status by writing in messages</li>
+<li>[Added] Option to improve the quality of the photos (experimental)</li>
+<li>[Added] Possibility to download your stories</li>
+<li>[Note] Do not ask for more options, since this is a basic project</li>
 
 
 
 
-","url":"https://t.me/Instaflow_ofc"
+","url":"https://t.me/instamods_ofc"
 }
