@@ -1,14 +1,12 @@
-{"version_code":320603793,"content":"
-<p>Update InstaFlow V2.00</p>
+{"version_code":320603794,"content":"
+<p>Update InstaFlow V2.50</p>
 
 
-<li>New Based on 206.1.0.34.121 (PlayStore)</li>
-<li>[Added] Ability to copy comments</li>
-<li>[Added] Privacy option - Hide seen in stories</li>
-<li>[Added] Privacy option - Hide seen in messages</li>
-<li>[Added] Privacy option - Hide status by writing in messages</li>
-<li>[Added] Option to improve the quality of the photos (experimental)</li>
-<li>[Added] Possibility to download your stories</li>
+<li>[Fixed] Download videos of IGTV</li>
+<li>[Fixed] Login from facebook</li>
+<li>[Added] Privacy option - Hide seen in live videos</li>
+<li>[Added] Option - Hide shopping icon</li>
+<li>[Added] Option - Show direct messaging icon on tab</li>
 <li>[Note] Do not ask for more options, since this is a basic project</li>
 
 
