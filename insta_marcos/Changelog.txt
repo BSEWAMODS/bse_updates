@@ -4,7 +4,7 @@
 
 <li>New Based on 210.0.0.28.71 (PlayStore)</li>
 <li>[Added] Option - Disable Ads (Feed and Stories)</li>
-<li>[Added] Zoom in profile photos (Profile &gt; LongPress Profile Photo)</li>
+<li>[Added] Zoom in profile photos (Profile > LongPress Profile Photo)</li>
 <li>[Added] Option - Stories Style Messenger (InstaFlow Settings > Desing > Stories Style Messenger)</li>
 <li>[Removed] Option - Show direct messaging icon on tab</li>
 <li>[Forced] Enable Sticker Link In Stories</li>
