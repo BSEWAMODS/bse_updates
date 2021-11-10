@@ -1,16 +1,17 @@
-{"version_code":320603794,"content":"
-<p>Update InstaFlow V2.50</p>
+{"version_code":321002469,"content":"
+<p>Update InstaFlow V3.00</p>
 
 
-<li>[Fixed] Download videos of IGTV</li>
-<li>[Fixed] Login from facebook</li>
-<li>[Added] Privacy option - Hide seen in live videos</li>
-<li>[Added] Option - Hide shopping icon</li>
-<li>[Added] Option - Show direct messaging icon on tab</li>
-<li>[Note] Do not ask for more options, since this is a basic project</li>
+<li>New Based on 210.0.0.28.71 (PlayStore)</li>
+<li>[Added] Option - Disable Ads (Feed and Stories)</li>
+<li>[Added] Zoom in profile photos (Profile &gt; LongPress Profile Photo)</li>
+<li>[Added] Option - Stories Style Messenger (InstaFlow Settings > Desing > Stories Style Messenger)</li>
+<li>[Removed] Option - Show direct messaging icon on tab</li>
+<li>[Forced] Enable Sticker Link In Stories</li>
+<li>[Fixed] Performance improvements</li>
 
 
 
 
-","url":"https://marcosshiinaider.tech/instaflow/index.php?/topic/2-instaflow-v250-fix/"
+","url":"https://racaty.net/i3degcp1uklm"
 }
