@@ -1,23 +1,15 @@
-{"version_code":321703944,"content":"
-<p>Update InstaFlow V4.00</p>
+{"version_code":321703945,"content":"
+<p>Update InstaFlow V4.50</p>
 
 
-<li>New Based on 216.0.0.20.137 (PlayStore)</li>
-<li>[Added] Option - Disable swipe to navigate</li>
-<li>[Added] Possibility of downloading profile photos (Long press the profile picture to download)</li>
-<li>[Added] Possibility of Block the app</li>
-<li>[Added] Option - Hide the content of notifications when the app is blocked</li>
-<li>[Added] New menu for the feed (InstaFlow Options - Download - Preview image or video - Share URL - Copy URL</li>
-<li>[Added] (Follows you) tag</li>
-<li>[Reorganized] the InstaFlow Setiings menu</li>
-<li>[Forced] Swipe left on an image to share</li>
-<li>[Improved] The option to improve the quality of photos</li>
-<li>[Removed] Option - Stories Style Messenger</li>
-<li>[Changed] The server for the verification badges changed (It is urgent that you update your application so as not to lose your verification mark)</li>
+<li>[Fixed] Counter on the reels</li>
+<li>[Added] Possibility of copying the link of the image a profile image (long press on a photo &gt; Copy Profile Picture URL)</li>
+<li>[Added] Possibility of sharing the link of the image a profile image (long press on a photo &gt; Share Profile Picture URL)</li>
+<li>[Removed] Swipe Share (Enabled by default)</li>
 <li>[Fixed] Performance improvements</li>
 
 
 
 
-","url":"https://t.me/instamods_ofc/168"
+","url":"https://t.me/instamods_ofc/171"
 }
