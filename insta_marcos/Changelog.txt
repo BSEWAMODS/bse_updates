@@ -1,15 +1,20 @@
-{"version_code":321703945,"content":"
-<p>Update InstaFlow V4.50</p>
+{"version_code":323003439,"content":"
+<p>Update InstaFlow V5.00</p>
 
 
-<li>[Fixed] Counter on the reels</li>
-<li>[Added] Possibility of copying the link of the image a profile image (long press on a photo &gt; Copy Profile Picture URL)</li>
-<li>[Added] Possibility of sharing the link of the image a profile image (long press on a photo &gt; Share Profile Picture URL)</li>
-<li>[Removed] Swipe Share (Enabled by default)</li>
-<li>[Fixed] Performance improvements</li>
+<li>New Based on 220.0.0.16.115 (PlayStore)</li>
+<li>[Added] Option to hide feed stories</li>
+<li>[Added] Option to change application font</li>
+<li>[Added] Option to open links with app browser</li>
+<li>[Added] Option - Show label (Follow you)</li>
+<li>[Added] Option to translate comments</li>
+<li>[Added] Possibility to copy the biography of a profile</li>
+<li>[Exclusive] Media Mods - Option to increase the video limit in stories up to 3 minutes</li>
+<li>[Improved] Media download V2 (You can now download all images from a post)</li>
+<li>[Improved] Media Mods - Improve photo quality</li>
 
 
 
 
-","url":"https://marcosshiinaider.tech/instaflow/index.php?/topic/4-instaflow-v45-fix/"
+","url":"https://t.me/instamods_ofc/201"
 }
