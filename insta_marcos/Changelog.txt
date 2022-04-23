@@ -1,20 +1,21 @@
-{"version_code":323003439,"content":"
-<p>Update InstaFlow V5.00</p>
+{"version_code":323603806,"content":"
+<p>Update InstaFlow V6.00</p>
 
 
-<li>New Based on 220.0.0.16.115 (PlayStore)</li>
-<li>[Added] Option to hide feed stories</li>
-<li>[Added] Option to change application font</li>
-<li>[Added] Option to open links with app browser</li>
-<li>[Added] Option - Show label (Follow you)</li>
-<li>[Added] Option to translate comments</li>
-<li>[Added] Possibility to copy the biography of a profile</li>
-<li>[Exclusive] Media Mods - Option to increase the video limit in stories up to 3 minutes</li>
-<li>[Improved] Media download V2 (You can now download all images from a post)</li>
-<li>[Improved] Media Mods - Improve photo quality</li>
+<li>New Based on 226.1.0.16.117 (PlayStore)</li>
+<li>[Added] Option - Enable video autoplay</li>
+<li>[Added] Translator of own messages</li>
+<li>[Added] Option - Disable stories autoskip</li>
+<li>[Added] Option - Play stories always with sound</li>
+<li>[Added] Item to download IGTV videos</li>
+<li>[Improved] Photos in max quality</li>
+<li>[Improved] Disable ads (ads are now hidden in feed, stories and reels)</li>
+<li>[Improved] Delay opening the app</li>
+<li>[Change] The option to increase the limit of the stories is now 1 minute</li>
+<li>[Removed] Option - Hide stories in the feed</li>
 
 
 
 
-","url":"https://t.me/instamods_ofc/201"
+","url":"https://t.me/instamods_ofc/216"
 }
